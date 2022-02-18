@@ -4,3 +4,10 @@
 - Push to Drive and get path
 - Unzip and Split data on Google Colab
 - Data Agumendation( Tăng độ đa dạng cho dữ liệu)
+## Training : Pretrain model VGG16.
+- Val-loss
+
+![alt](https://github.com/LongCao-HUST/Tomato-Disease-Classification/blob/ebf7f12b6b776fa85c00a11cba249225b3f046bc/loss_acc.png)
+
+- Test
+![alt](https://github.com/LongCao-HUST/Tomato-Disease-Classification/blob/ebf7f12b6b776fa85c00a11cba249225b3f046bc/resulft.png)
